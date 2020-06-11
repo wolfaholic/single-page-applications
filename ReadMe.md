@@ -41,7 +41,7 @@ Your MVP should include, at a minimum, the following components.
 - [ ] Dropdown form component for taco size (with a quantity #)
 - [ ] Checklist form component for toppings - at least 4 (hint: name each separately!)
 - [ ] Text input form component for special instructions
-- [ ] An Add to Order button that submits form and returns a database record of name, pizza size, sauce, and special instructions
+- [ ] An Add to Order button that submits form and returns a database record of name, taco order size, toppings sauce, and special instructions
 
 #### Testing MVP
 
@@ -62,7 +62,7 @@ If you complete the MVP, move on to the following stretch goals. As usual, these
 - [ ] Turn form element sections into nested routes
 - [ ] Create a `cart` page with additional form options like: delivery or pickup, the option to add utensils and straws, add a tip, etc.
 - [ ] Test more of the application with Cypress
-- [ ] Add functionality to your order button that it leads to a Congrats! Pizza is on it's way! page **and** returns a database record of the whole order
+- [ ] Add functionality to your order button that it leads to a Congrats! Tacos are on their way! page **and** returns a database record of the whole order
 
 **"Tacos are on their Way" Wireframe:**
 
